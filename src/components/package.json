@@ -1,0 +1,17 @@
+{
+  "name": "components",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "grapesjs-cli build",
+    "start": "grapesjs-cli serve"
+  },
+  "author": "Harshan N",
+  "license": "ISC",
+  "devDependencies": {
+    "grapesjs": "^0.21.2",
+    "grapesjs-cli": "^4.1.1"
+  }
+}
